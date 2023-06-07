@@ -78,14 +78,14 @@ h3 {
 .progress-bar-container {
      background-color: #ddd;
      border-radius: 20px;
-     height: 25px;
+     height: 20px;
      width: 50%;
      display: flex;
 }
 
 .progress-bar-container #progress-bar {
     position: absolute;
-    height: 25px;
+    height: 20px;
     width: 16.66%;
     border-radius: 20px;
     background-color: #9885F7;
